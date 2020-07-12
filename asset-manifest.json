@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/giphypedia/static/js/main.31c853ce.chunk.js",
+    "main.js.map": "/giphypedia/static/js/main.31c853ce.chunk.js.map",
+    "runtime-main.js": "/giphypedia/static/js/runtime-main.97d66612.js",
+    "runtime-main.js.map": "/giphypedia/static/js/runtime-main.97d66612.js.map",
+    "static/js/2.baab901d.chunk.js": "/giphypedia/static/js/2.baab901d.chunk.js",
+    "static/js/2.baab901d.chunk.js.map": "/giphypedia/static/js/2.baab901d.chunk.js.map",
+    "index.html": "/giphypedia/index.html",
+    "precache-manifest.f0252d841aca4e8bfa056ebdc97a8b1b.js": "/giphypedia/precache-manifest.f0252d841aca4e8bfa056ebdc97a8b1b.js",
+    "service-worker.js": "/giphypedia/service-worker.js",
+    "static/js/2.baab901d.chunk.js.LICENSE.txt": "/giphypedia/static/js/2.baab901d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d66612.js",
+    "static/js/2.baab901d.chunk.js",
+    "static/js/main.31c853ce.chunk.js"
+  ]
+}
